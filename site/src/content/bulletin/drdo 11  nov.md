@@ -1,8 +1,8 @@
 ---
 title: "India to Induct Pralay: DRDO Successfully Test-Fires Indigenous Quasi-Ballistic Missile"
-author: "Aman Kumar"
-cover: "/images/bulletin/pralay.png"
-order: -15
+author: "Sarang Gulati"
+cover: "/images/bulletin/11NovN.jpeg"
+order: -14
 ---
 
 <p>
@@ -33,7 +33,5 @@ The missile is produced by Bharat Dynamics Limited and can be transported on hig
 <i>Sources:
 <a href="https://drdo.gov.in" style="color:rgba(127, 170, 139, 1)" target="_blank">drdo.gov.in</a>,
 <a href="https://pib.gov.in" style="color:rgba(127, 170, 139, 1)" target="_blank">pib.gov.in</a>,
-<a href="https://theprint.in" style="color:rgba(127, 170, 139, 1)" target="_blank">theprint.in</a>,
-<a href="https://timesofindia.indiatimes.com" style="color:rgba(127, 170, 139, 1)" target="_blank">timesofindia.indiatimes.com</a>
 </i>
 </p>
