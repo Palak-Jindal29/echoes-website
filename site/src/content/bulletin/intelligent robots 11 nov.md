@@ -1,7 +1,7 @@
 ---
 title: "From Code to Conscious Movement: The Evolution of Intelligent Robots"
-author: "Aman Kumar"
-cover: "/images/bulletin/robotics.png"
+author: "Girisha Raheja"
+cover: "/images/bulletin/11NovT.jpeg"
 order: -13
 ---
 
@@ -35,7 +35,7 @@ The fascinating part is that we are no longer looking at machines that simply pe
 
 <p>
 <i>Sources:
-<a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" style="color:rgba(127, 170, 139, 1)" target="_blank">deepmind.google</a>,
+<a href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/" style="color:rgba(127, 170, 139, 1)" target="_blank">Deepmind</a>,
 <a href="https://www.nvidia.com/en-in/industries/robotics/isaac-groot/" style="color:rgba(127, 170, 139, 1)" target="_blank">nvidia.com</a>
 </i>
 </p>
